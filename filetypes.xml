@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Creditors-journal" type="PLAIN_TEXT" />
       <mapping pattern="bordet_bottom" type="XML" />
     </extensionMap>
   </component>
